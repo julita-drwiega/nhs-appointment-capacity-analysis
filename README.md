@@ -30,7 +30,7 @@ Appointment status was then cross-tabulated against booking lead time and appoin
 
 **13% of appointments are unusable for analysis**, falling into Inconsistent Mapping or Unmapped categories. That is a data quality problem large enough to affect the reliability of any category-level conclusion drawn here.
 
-**COVID is legible in the series.** Total monthly appointments from January 2020 to June 2022 track pandemic phases directly — sharp drops following the March 2020 lockdown and the December 2021 Plan B announcement, recoveries as restrictions eased.
+**COVID is legible in the series.** Total monthly appointments from January 2020 to June 2022 track pandemic phases directly: sharp drops following the March 2020 lockdown and the December 2021 Plan B announcement, recoveries as restrictions eased.
 
 ## Recommendations
 
@@ -38,7 +38,7 @@ Make data entry mandatory and standardised; without it, none of this analysis is
 
 ## Limitations
 
-The voluntary, non-standardised data entry is the fundamental constraint and cannot be worked around analytically. The Twitter analysis produced nothing usable — "healthcare" was the top hashtag, which confirms only that healthcare is discussed. To be worth anything, that strand would need geotagged tweets filtered by region and mapped against regional utilisation, on a substantially larger sample. Video and online appointment modes make up 0.49% of the data, too few to support conclusions. Staffing levels by practice type and regional variation were out of scope and are the obvious next step.
+The voluntary, non-standardised data entry is the fundamental constraint and cannot be worked around analytically. The Twitter analysis produced nothing usable: "healthcare" was the top hashtag, which confirms only that healthcare is discussed. To be worth anything, that strand would need geotagged tweets filtered by region and mapped against regional utilisation, on a substantially larger sample. Video and online appointment modes make up 0.49% of the data, too few to support conclusions. Staffing levels by practice type and regional variation were out of scope and are the obvious next step.
 
 ## Files
 
